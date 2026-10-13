@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a polished, premium e-commerce storefront prototype showcasing a refined shopping experience with realistic product browsing, cart, and checkout features.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
