@@ -358,8 +358,8 @@ function Home({ add }: { add: (p: Product, v: string, q: number) => void }) {
             It's not about more.
             <br />
             It's about <em>meaning.</em>
-            <br>
-            Its about <em>Trust</em></br>
+            <br />
+            Its about <em>Trust</em>
           </h2>
 
           <p>
